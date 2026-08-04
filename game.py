@@ -5,7 +5,7 @@ import time
 
 st.set_page_config(page_title="Code Guessing Game", page_icon="🔐", layout="centered")
 
-MAX_ATTEMPTS = 5
+MAX_ATTEMPTS = 8
 MIN_CODE = 0
 MAX_CODE = 9  # matches original random.randrange(9) -> 0 to 8
 
