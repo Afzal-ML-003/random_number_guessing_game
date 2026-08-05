@@ -23,7 +23,7 @@ Bash
 Your browser should open automatically, or go to this URL manually:
 Code
  Deploying Live on GitHub (Streamlit Community Cloud)
-Push this code to your GitHub repository (app.py, requirements.txt,
+Push this code to your GitHub repository (game.py, requirements.txt,
 and README.md all included).
 Go to share.streamlit.io and sign in with your
 GitHub account.
